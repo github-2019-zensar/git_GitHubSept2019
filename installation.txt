@@ -1,0 +1,5 @@
+In the above command I have created a folder called angular
+Training in the D: drive and I am creating a new angular project 
+with name my-app. Please note that the project name cannot contain 
+uppercase characters.
+ This will take a long time to create.
